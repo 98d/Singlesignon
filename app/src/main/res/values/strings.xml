@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Singlesignon</string>
+    <string name="cancel">取消</string>
+    <string name="ensure">确定</string>
+</resources>
